@@ -1,0 +1,1 @@
+ /home/scientistmassive/Desktop/App/demo_app/.dart_tool/flutter_build/74410854f204976e46b7c17e0d65513f/native_assets.yaml: 
